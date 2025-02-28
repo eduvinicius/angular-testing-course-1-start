@@ -44,3 +44,7 @@ Thumbs.db
 tmp.html
 /local-samples
 *.mp4
+
+# Cypress files
+cypress/screenshots/
+cyress/videos/
